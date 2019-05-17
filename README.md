@@ -15,7 +15,7 @@ FERNANDO CASTILLO "MOMOS TIME"
 $ apt update && apt upgrade
 $ apt install git python2
 $ git clone https://github.com/FerHack00/ferhackmt01010.git
-$ cd fbi
+$ cd ferhackmt01010
 ```
 
 # [ Setup ]
@@ -27,14 +27,10 @@ $ pip2 install -r requirements.txt
 $ python2 ferhack.py
 ```
 # [ Screenshot ]
-<img src="https://image.ibb.co/iLFhD9/fbi.png"/>
+<img src="https://scontent.ftrc1-1.fna.fbcdn.net/v/t1.0-9/60333209_295288838040435_2239983276322193408_n.jpg?_nc_cat=111&_nc_ht=scontent.ftrc1-1.fna&oh=7ec5ba8e60e93da14c365053f503f255&oe=5D578ED7">
 
-* if you are confused how to use it, please type 'help' to display the help menu
-* [Warn] please turn off your VPN before using this program !!!
-* [Tips] do not overuse this program !!!
 
-![](https://image.ibb.co/i4ES3U/bc.png)
 
-   ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
+
 
 
