@@ -1,17 +1,12 @@
 
 
 ```
-				 ________.   .__ 
-			       _/ ____\_ |__ |__|
-			       \   __\ | __ \|  |
-				|  |   | \_\ \  |
-				|__|   |___  /__|
-                                           \/    
+FERNANDO CASTILLO "MOMOS TIME"
                                        
-                                       FBI
-                             [Facebook Informations]
+                                       
+                             [FERHACKMT]
 ```
-FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+
 
 
 
@@ -19,7 +14,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ git clone https://github.com/FerHack00/ferhackmt01010.git
 $ cd fbi
 ```
 
@@ -29,7 +24,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 fbi.py
+$ python2 ferhack.py
 ```
 # [ Screenshot ]
 <img src="https://image.ibb.co/iLFhD9/fbi.png"/>
@@ -42,4 +37,4 @@ $ python2 fbi.py
 
    ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
 
-Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
+
